@@ -81,13 +81,6 @@
 #define DJI_SYM_AH_DECORATION_UP        0x75
 #define DJI_SYM_AH_DECORATION_DOWN      0x76
 
-// AH Center screen Graphics
-#define DJI_SYM_AH_RIGHT                0x02
-#define DJI_SYM_AH_LEFT                 0x03
-#define DJI_SYM_AH_DECORATION           0x13
-#define DJI_SYM_AH_DECORATION_UP        0x75
-#define DJI_SYM_AH_DECORATION_DOWN      0x76
-
 // Crosshair Styles
 #define DJI_SYM_AH_CH_TYPE3             0x00
 #define DJI_SYM_AH_CH_TYPE3_1           0x7E
